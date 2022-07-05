@@ -1,0 +1,1 @@
+E:\Project\CUDA_Learn\01_HelloGPU\01_helloGPU\x64\Debug\01_helloGPU.exe

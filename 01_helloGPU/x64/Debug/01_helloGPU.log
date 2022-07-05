@@ -1,0 +1,5 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  E:\Project\CUDA_Learn\01_HelloGPU\01_helloGPU>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "D:\install_locationMicrosoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o E:\Project\CUDA_Learn\01_HelloGPU\01_helloGPU\x64\Debug\kernel.cu.obj "E:\Project\CUDA_Learn\01_HelloGPU\01_helloGPU\kernel.cu" 
+  kernel.cu
+  01_helloGPU.vcxproj -> E:\Project\CUDA_Learn\01_HelloGPU\01_helloGPU\x64\Debug\01_helloGPU.exe
